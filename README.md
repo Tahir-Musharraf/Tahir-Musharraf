@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Technologies, AI and Data Science 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on SAAS Projects
-- 📫 DM me on instagram@tahir_musharraf
+- 📫 DM me on twitter@tahir_musharraf
 
 <!---
 Tahir-Musharraf/Tahir-Musharraf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
